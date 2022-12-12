@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1452101667 source:c:\users\equipo\documents\leerarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1452017520 c:\users\equipo\documents\leerarchaleatorio\cliente.h
+	<string>
+
+1452101668 source:c:\alejandra\est\lenguaje de programación i\archivos\leerarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1452017522 c:\alejandra\est\lenguaje de programación i\archivos\leerarchaleatorio\cliente.h
+	<string>
+
+1452104884 source:c:\alejandra\est\lenguaje de programación i\archivos\leerarchaleatorio\main.cpp
+	<iostream>
+	<fstream>
+	"Cliente.h"
+	<iomanip>
+	<stdlib.h>
+
+1452104884 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\leerarchaleatorio\main.cpp
+	<iostream>
+	<fstream>
+	"Cliente.h"
+	<iomanip>
+	<stdlib.h>
+
+1550182187 c:\alejandra\est\paradigmas de programación iii\archivos en poo\leerarchaleatorio\cliente.h
+	<string>
+
+1550182165 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\leerarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598957464 source:c:\alejandra\emae\programación visual\ejemplos de clase\leerarchaleatorio\main.cpp
+	<iostream>
+	<fstream>
+	"Cliente.h"
+	<iomanip>
+	<stdlib.h>
+
+1598959367 c:\alejandra\emae\programación visual\ejemplos de clase\leerarchaleatorio\cliente.h
+	<string>
+
+1598959367 source:c:\alejandra\emae\programación visual\ejemplos de clase\leerarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598959367 source:c:\alejandra\emae\programación visual\ejemplos de clase 2021\leerarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598959367 c:\alejandra\emae\programación visual\ejemplos de clase 2021\leerarchaleatorio\cliente.h
+	<string>
+
+1662419053 source:c:\users\lucia\desktop\pv\binario\leerarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+	<string>
+
+1598959368 c:\users\lucia\desktop\pv\binario\leerarchaleatorio\cliente.h
+	<string>
+
+1662419465 source:c:\users\lucia\desktop\pv\binario\leerarchaleatorio\main.cpp
+	<iostream>
+	<fstream>
+	"Cliente.h"
+	<iomanip>
+	<stdlib.h>
+

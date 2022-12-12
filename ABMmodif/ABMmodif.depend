@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1550708914 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\abmmodif\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1550708914 c:\alejandra\est\paradigmas de programación iii\archivos en poo\abmmodif\cliente.h
+	<string>
+
+1552337486 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\abmmodif\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Cliente.h"
+
+1598961660 source:c:\alejandra\emae\programación visual\ejemplos de clase\abmmodif\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598961660 c:\alejandra\emae\programación visual\ejemplos de clase\abmmodif\cliente.h
+	<string>
+
+1600124063 source:c:\alejandra\emae\programación visual\ejemplos de clase\abmmodif\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Cliente.h"
+	<stdio.h>
+
+1598961660 source:c:\alejandra\emae\programación visual\ejemplos de clase 2021\abmmodif\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598961660 c:\alejandra\emae\programación visual\ejemplos de clase 2021\abmmodif\cliente.h
+	<string>
+
+1600124063 source:c:\alejandra\emae\programación visual\ejemplos de clase 2021\abmmodif\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Cliente.h"
+	<stdio.h>
+
+1662762952 source:d:\materias\emae\programación visual\ejemplos de clase 2022\abmmodif\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+	<iostream>
+	<string>
+
+1662762992 d:\materias\emae\programación visual\ejemplos de clase 2022\abmmodif\cliente.h
+	<string>
+
+1662762797 source:d:\materias\emae\programación visual\ejemplos de clase 2022\abmmodif\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Cliente.h"
+	<stdio.h>
+
+1662762952 source:c:\users\lucia\desktop\pv\binario\abmmodif\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+	<iostream>
+	<string>
+
+1662762992 c:\users\lucia\desktop\pv\binario\abmmodif\cliente.h
+	<string>
+
+1662762797 source:c:\users\lucia\desktop\pv\binario\abmmodif\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Cliente.h"
+	<stdio.h>
+

@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1452101617 source:c:\users\equipo\documents\creararchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<fstream>
+	<stdlib.h>
+
+1452017520 c:\users\equipo\documents\creararchaleatorio\cliente.h
+	<string>
+
+1452101668 source:c:\alejandra\est\lenguaje de programación i\archivos\creararchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1452017522 c:\alejandra\est\lenguaje de programación i\archivos\creararchaleatorio\cliente.h
+	<string>
+
+1452101618 source:c:\alejandra\est\lenguaje de programación i\archivos\creararchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<fstream>
+	<stdlib.h>
+
+1452101618 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\creararchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<fstream>
+	<stdlib.h>
+
+1550182271 c:\alejandra\est\paradigmas de programación iii\archivos en poo\creararchaleatorio\cliente.h
+	<string>
+
+1550182271 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\creararchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598957377 source:c:\alejandra\emae\programación visual\ejemplos de clase\creararchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<fstream>
+	<stdlib.h>
+
+1598959155 c:\alejandra\emae\programación visual\ejemplos de clase\creararchaleatorio\cliente.h
+	<string>
+
+1598959155 source:c:\alejandra\emae\programación visual\ejemplos de clase\creararchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598959155 source:c:\alejandra\emae\programación visual\ejemplos de clase 2021\creararchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598959155 c:\alejandra\emae\programación visual\ejemplos de clase 2021\creararchaleatorio\cliente.h
+	<string>
+
+1598959156 source:d:\materias\emae\programación visual\ejemplos de clase 2022\creararchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598959156 d:\materias\emae\programación visual\ejemplos de clase 2022\creararchaleatorio\cliente.h
+	<string>
+
+1662415914 source:c:\users\lucia\desktop\pv\binario\creararchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+	<string>
+
+1598959156 c:\users\lucia\desktop\pv\binario\creararchaleatorio\cliente.h
+	<string>
+
+1662415914 source:c:\users\lucia\desktop\pv\binario\creararchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<fstream>
+	<stdlib.h>
+

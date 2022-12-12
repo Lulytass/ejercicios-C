@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1554132624 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\manejoarchaleatorio\funciones.cpp
+	"Persona.h"
+	<string.h>
+
+1554132624 c:\alejandra\est\paradigmas de programación iii\archivos en poo\manejoarchaleatorio\persona.h
+	<string>
+
+1554132624 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\manejoarchaleatorio\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Persona.h"
+
+1598959892 source:c:\alejandra\emae\programación visual\ejemplos de clase\manejoarchaleatorio\funciones.cpp
+	"Persona.h"
+	<string.h>
+
+1598959892 c:\alejandra\emae\programación visual\ejemplos de clase\manejoarchaleatorio\persona.h
+	<string>
+
+1598960522 source:c:\alejandra\emae\programación visual\ejemplos de clase\manejoarchaleatorio\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Persona.h"
+	<stdio.h>
+
+1598959892 source:c:\alejandra\emae\programación visual\ejemplos de clase 2021\manejoarchaleatorio\funciones.cpp
+	"Persona.h"
+	<string.h>
+
+1598959892 c:\alejandra\emae\programación visual\ejemplos de clase 2021\manejoarchaleatorio\persona.h
+	<string>
+
+1598960522 source:c:\alejandra\emae\programación visual\ejemplos de clase 2021\manejoarchaleatorio\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Persona.h"
+	<stdio.h>
+
+1598959894 source:d:\materias\emae\programación visual\ejemplos de clase 2022\manejoarchaleatorio\funciones.cpp
+	"Persona.h"
+	<string.h>
+
+1598959894 d:\materias\emae\programación visual\ejemplos de clase 2022\manejoarchaleatorio\persona.h
+	<string>
+
+1598960524 source:d:\materias\emae\programación visual\ejemplos de clase 2022\manejoarchaleatorio\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Persona.h"
+	<stdio.h>
+
+1598959894 source:c:\users\lucia\desktop\pv\binario\manejoarchaleatorio\funciones.cpp
+	"Persona.h"
+	<string.h>
+
+1598959894 c:\users\lucia\desktop\pv\binario\manejoarchaleatorio\persona.h
+	<string>
+
+1598960524 source:c:\users\lucia\desktop\pv\binario\manejoarchaleatorio\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Persona.h"
+	<stdio.h>
+

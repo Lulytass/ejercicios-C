@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1452101667 source:c:\users\equipo\documents\escribirarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1452017520 c:\users\equipo\documents\escribirarchaleatorio\cliente.h
+	<string>
+
+1452101668 source:c:\alejandra\est\lenguaje de programación i\archivos\escribirarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1452017522 c:\alejandra\est\lenguaje de programación i\archivos\escribirarchaleatorio\cliente.h
+	<string>
+
+1452103160 source:c:\alejandra\est\lenguaje de programación i\archivos\escribirarchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<stdlib.h>
+	<fstream>
+
+1550182370 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\escribirarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1550182370 c:\alejandra\est\paradigmas de programación iii\archivos en poo\escribirarchaleatorio\cliente.h
+	<string>
+
+1554130968 source:c:\alejandra\est\paradigmas de programación iii\archivos en poo\escribirarchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+
+1598959262 source:c:\alejandra\emae\programación visual\ejemplos de clase\escribirarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598959262 c:\alejandra\emae\programación visual\ejemplos de clase\escribirarchaleatorio\cliente.h
+	<string>
+
+1598958002 source:c:\alejandra\emae\programación visual\ejemplos de clase\escribirarchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+
+1598959262 source:c:\alejandra\emae\programación visual\ejemplos de clase 2021\escribirarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598959262 c:\alejandra\emae\programación visual\ejemplos de clase 2021\escribirarchaleatorio\cliente.h
+	<string>
+
+1598959264 source:d:\materias\emae\programación visual\ejemplos de clase 2022\escribirarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1598959264 d:\materias\emae\programación visual\ejemplos de clase 2022\escribirarchaleatorio\cliente.h
+	<string>
+
+1662418619 source:d:\materias\emae\programación visual\ejemplos de clase 2022\escribirarchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+
+1662418654 source:c:\users\lucia\desktop\pv\binario\escribirarchaleatorio\funcionescliente.cpp
+	"Cliente.h"
+	<string.h>
+	<string>
+
+1598959264 c:\users\lucia\desktop\pv\binario\escribirarchaleatorio\cliente.h
+	<string>
+
+1662418619 source:c:\users\lucia\desktop\pv\binario\escribirarchaleatorio\main.cpp
+	<iostream>
+	"Cliente.h"
+	<stdlib.h>
+	<fstream>
+	<string>
+

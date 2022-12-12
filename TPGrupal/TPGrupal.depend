@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1665686462 source:c:\users\lucia\desktop\tpgrupal\funciones.cpp
+	"Producto.h"
+	<string>
+	<string.h>
+	<iostream>
+
+1665686823 c:\users\lucia\desktop\tpgrupal\producto.h
+	<string>
+
+1665686527 source:c:\users\lucia\desktop\tpgrupal\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+	"Producto.h"
+
